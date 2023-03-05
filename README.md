@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/sougato97/sougato97/blob/main/starry_night_2.png)
+[![MasterHead](https://github.com/sougato97/sougato97/blob/main/starry_night_2.png)](https://sougato97.github.io/)
 <h1 align="center">Hi 👋, I'm Sougato Bagchi</h1>
 <h3 align="center">Software developer in robotics and computer vision</h3>
 
