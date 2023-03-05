@@ -1,9 +1,9 @@
 
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://github.com/sougato97/sougato97/blob/main/starry_night.png)
 <h1 align="center">Hi 👋, I'm Sougato Bagchi</h1>
 <h3 align="center">Software developer in robotics and computer vision</h3>
 
-<img align="right" alt="Coding" width="400" src="http://generalelectric.tumblr.com/post/112255757543/the-robotic-age-is-upon-us-and-as-technology">
+<img align="right" alt="Coding" width="400" src="https://github.com/sougato97/sougato97/blob/main/programmer_cat.png">
 
 - 🔭 I’m currently working on [Human Robot Interaction](https://github.com/hcicsebuffalo)
 
