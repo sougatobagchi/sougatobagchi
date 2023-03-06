@@ -14,7 +14,7 @@
 
 - 📄 Know about my experiences [https://sougato97.github.io/data/resume.pdf](https://sougato97.github.io/data/resume.pdf)
 
-- ⚡ Key fact **I am a nocturnal coder.**
+- ⚡ Key fact :- **I am a nocturnal coder.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
