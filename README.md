@@ -10,11 +10,11 @@
 
 - 💬 Ask me about **tech, current economic affairs**
 
-- 📫 How to reach me **sougato97@gmail.com**
+- 📫 How to reach me :- **sougato97@gmail.com**
 
 - 📄 Know about my experiences [https://sougato97.github.io/data/resume.pdf](https://sougato97.github.io/data/resume.pdf)
 
-- ⚡ Fun fact **I am lazy and nocturnal.**
+- ⚡ Key fact **I am a nocturnal coder.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
