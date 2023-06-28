@@ -12,7 +12,7 @@
 
 - 📫 How to reach me :- **sougato97@gmail.com**
 
-- 📄 Know about my experiences [https://sougato97.github.io/data/resume.pdf](https://sougato97.github.io/data/resume.pdf)
+- 📄 Know about my experiences [resume](https://sougato97.github.io/data/resume.pdf)
 
 - ⚡ Key fact :- **I am a nocturnal coder.**
 
