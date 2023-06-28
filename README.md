@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Human Robot Interaction](https://github.com/hcicsebuffalo)
 
-- 👨‍💻 All of my projects are available at [sougato97.github.io](sougato97.github.io)
+- 👨‍💻 All of my projects are available at [sougato97.github.io](https://sougato97.github.io/)
 
 - 💬 Ask me about **tech, current economic affairs**
 
