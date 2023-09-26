@@ -4,11 +4,11 @@
 
 <img align="right" alt="Coding" width="400" src="https://github.com/sougato97/sougato97/blob/main/programmer_cat.png">
 
-- 🔭 I’m currently working on [Human Robot Interaction](https://github.com/hcicsebuffalo)
+- 🔭 I’m have worked on [Human Robot Interaction](https://github.com/hcicsebuffalo) & [DronesLab](https://github.com/droneslab)
 
 - 👨‍💻 All of my projects are available at [sougato97.github.io](https://sougato97.github.io/)
 
-- 💬 Ask me about **tech, current economic affairs**
+- 💬 Would love to discuss about **tech, the miracle of life & universe**
 
 - 📫 How to reach me :- **sougato97@gmail.com**
 
