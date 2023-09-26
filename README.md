@@ -6,13 +6,13 @@
 
 - 🔭 I’m currently working on [Human Robot Interaction](https://github.com/hcicsebuffalo)
 
-- 👨‍💻 All of my projects are available at [sougato97.github.io](sougato97.github.io)
+- 👨‍💻 All of my projects are available at [sougato97.github.io](https://sougato97.github.io/)
 
 - 💬 Ask me about **tech, current economic affairs**
 
 - 📫 How to reach me :- **sougato97@gmail.com**
 
-- 📄 Know about my experiences [https://sougato97.github.io/data/resume.pdf](https://sougato97.github.io/data/resume.pdf)
+- 📄 Know about my experiences [resume](https://sougato97.github.io/data/resume.pdf)
 
 - ⚡ Key fact :- **I am a nocturnal coder.**
 
