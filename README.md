@@ -4,9 +4,10 @@
 
 <img align="right" alt="Coding" width="400" src="https://github.com/sougato97/sougato97/blob/main/programmer_cat.png">
 
-- 🔭 I have worked on [Human Robot Interaction](https://github.com/hcicsebuffalo) & [DronesLab](https://github.com/droneslab)
+<!-- - 🔭 I have worked on [Human Robot Interaction](https://github.com/hcicsebuffalo) & [DronesLab](https://github.com/droneslab)  -->
 
-- 👨‍💻 All of my projects are available at [sougato97.github.io](https://sougato97.github.io/)
+<!-- - 👨‍💻 All of my projects are available at [sougato97.github.io](https://sougato97.github.io/) -->
+- 👨‍💻 Some of my cool projects are in [Low light image enhancement with denoising](https://github.com/sougato97/ImageEnhanceUnconstrained),  [Human Robot Interaction](https://github.com/hcicsebuffalo/nao_dev_LLM), [Voice authentication on BostonDynamics Spot](https://github.com/sougato97/spot_dev)
 
 - 💬 Would love to discuss about **tech, the miracle of life & universe**
 
