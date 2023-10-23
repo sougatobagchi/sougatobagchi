@@ -1,13 +1,13 @@
 [![MasterHead](https://github.com/sougato97/sougato97/blob/main/github_readme.png)](https://sougato97.github.io/)
 <h1 align="center">Hi 👋, I'm Sougato Bagchi</h1>
-<h3 align="center">Software developer in robotics and computer vision</h3>
+<h3 align="center">Software developer in computer vision, robotics and machine learning</h3>
 
 <img align="right" alt="Coding" width="400" src="https://github.com/sougato97/sougato97/blob/main/programmer_cat.png">
 
 <!-- - 🔭 I have worked on [Human Robot Interaction](https://github.com/hcicsebuffalo) & [DronesLab](https://github.com/droneslab)  -->
 
 <!-- - 👨‍💻 All of my projects are available at [sougato97.github.io](https://sougato97.github.io/) -->
-- 👨‍💻 Some of my cool projects are in [Low light image enhancement with denoising](https://github.com/sougato97/ImageEnhanceUnconstrained),  [Human Robot Interaction](https://github.com/hcicsebuffalo/nao_dev_LLM), [Voice authentication on BostonDynamics Spot](https://github.com/sougato97/spot_dev)
+- 👨‍💻 Some of my cool projects are in [Human Robot Interaction](https://github.com/hcicsebuffalo/nao_dev_LLM), [Voice authentication on BostonDynamics Spot](https://github.com/sougato97/spot_dev) and [Low light image enhancement with denoising](https://github.com/sougato97/ImageEnhanceUnconstrained)
 
 - 💬 Would love to discuss about **tech, the miracle of life & universe**
 
