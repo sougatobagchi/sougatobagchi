@@ -11,7 +11,7 @@
 * 👨‍💻 Some of my cool projects are in :- 
   * [Low light image enhancement with denoising](https://github.com/sougato97/image_enhancement) 
   * [Human Robot Interaction](https://github.com/hcicsebuffalo/nao_dev_LLM) 
-  * [Voice authentication on BostonDynamics Spot](https://github.com/sougato97/spot_dev).
+  * [Voice authentication on BostonDynamics Spot](https://github.com/sougato97/spot_dev)
 
 * 💬 Would love to discuss about **tech, the miracle of life & universe**
 
