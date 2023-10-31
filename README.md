@@ -1,4 +1,5 @@
-[![MasterHead](https://github.com/sougato97/sougato97/blob/main/github_readme.png)](https://sougato97.github.io/)
+<!-- I have commented the 2nd line. -->
+<!-- [![MasterHead](https://github.com/sougato97/sougato97/blob/main/github_readme.png)](https://sougato97.github.io/) --> 
 <h1 align="center">Hi 👋, I'm Sougato Bagchi</h1>
 <h3 align="center">Software developer in computer vision, robotics and machine learning</h3>
 
