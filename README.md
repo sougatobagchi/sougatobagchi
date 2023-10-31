@@ -11,11 +11,11 @@
 
 <ul>
 <li>👨‍💻 Some of my cool projects are in :- </li>
-<ul>
-<li> [Low light image enhancement with denoising](https://github.com/sougato97/image_enhancement) </li>
-<li> [Human Robot Interaction](https://github.com/hcicsebuffalo/nao_dev_LLM) </li>
-<li> [Voice authentication on BostonDynamics Spot](https://github.com/sougato97/spot_dev) </li>
-</ul>
+<ol>
+- <a href="https://github.com/sougato97/image_enhancement" target="_blank">[Low light image enhancement with denoising]</a>  </br>
+- <a href="https://github.com/hcicsebuffalo/nao_dev_LLM" target="_blank">[Human Robot Interaction]</a>  </br>
+- <a href="https://github.com/sougato97/spot_dev" target="_blank">[Voice authentication on BostonDynamics Spot]</a> 
+</ol>
 </ul>
 
 - 💬 Would love to discuss about **tech, the miracle of life & universe**
@@ -28,7 +28,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sougato" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sougato" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sougato" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sougato" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
