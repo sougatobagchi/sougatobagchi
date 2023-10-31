@@ -1,4 +1,4 @@
-<!-- I have commented the 2nd line. -->
+<!-- I have commented the 2nd line -->
 <!-- [![MasterHead](https://github.com/sougato97/sougato97/blob/main/github_readme.png)](https://sougato97.github.io/) --> 
 <h1 align="center">Hi 👋, I'm Sougato Bagchi</h1>
 <h3 align="center">Software developer in computer vision, robotics and machine learning</h3>
@@ -8,27 +8,22 @@
 <!-- - 🔭 I have worked on [Human Robot Interaction](https://github.com/hcicsebuffalo) & [DronesLab](https://github.com/droneslab)  -->
 
 <!-- - 👨‍💻 All of my projects are available at [sougato97.github.io](https://sougato97.github.io/) -->
+* 👨‍💻 Some of my cool projects are in :- 
+  * [Low light image enhancement with denoising](https://github.com/sougato97/image_enhancement) 
+  * [Human Robot Interaction](https://github.com/hcicsebuffalo/nao_dev_LLM) 
+  * [Voice authentication on BostonDynamics Spot](https://github.com/sougato97/spot_dev).
 
-<ul>
-<li>👨‍💻 Some of my cool projects are in :- </li>
-<ol>
-- <a href="https://github.com/sougato97/image_enhancement" target="_blank">[Low light image enhancement with denoising]</a>  </br>
-- <a href="https://github.com/hcicsebuffalo/nao_dev_LLM" target="_blank">[Human Robot Interaction]</a>  </br>
-- <a href="https://github.com/sougato97/spot_dev" target="_blank">[Voice authentication on BostonDynamics Spot]</a> 
-</ol>
-</ul>
+* 💬 Would love to discuss about **tech, the miracle of life & universe**
 
-- 💬 Would love to discuss about **tech, the miracle of life & universe**
+* 📫 How to reach me :- **sougato97@gmail.com**
 
-- 📫 How to reach me :- **sougato97@gmail.com**
+* 📄 Know about my experiences [resume](https://sougato97.github.io/data/resume.pdf)
 
-- 📄 Know about my experiences [resume](https://sougato97.github.io/data/resume.pdf)
-
-- ⚡ Key fact :- **I am a nocturnal coder.**
+* ⚡ Key fact :- **I am a nocturnal coder.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sougato" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sougato" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sougato" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sougato" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
