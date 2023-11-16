@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Sougato Bagchi</h1>
 <h3 align="center">Software developer in computer vision, robotics and machine learning</h3>
 
-<img align="right" alt="Coding" width="400" src="https://github.com/sougato97/sougato97/blob/main/cat_typing.png">
+<img align="right" alt="Coding" width="400" src="https://github.com/sougato97/sougato97/blob/main/cat_typing.gif">
 
 <!-- - 🔭 I have worked on [Human Robot Interaction](https://github.com/hcicsebuffalo) & [DronesLab](https://github.com/droneslab)  -->
 
