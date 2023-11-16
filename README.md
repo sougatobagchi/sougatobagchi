@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Sougato Bagchi</h1>
 <h3 align="center">Software developer in computer vision, robotics and machine learning</h3>
 
-<img align="right" alt="Coding" width="400" src="https://github.com/sougato97/sougato97/blob/main/cat_typing.gif">
+<img align="right" alt="Coding" width="350" src="https://github.com/sougato97/sougato97/blob/main/cat_typing.gif">
 
 <!-- - 🔭 I have worked on [Human Robot Interaction](https://github.com/hcicsebuffalo) & [DronesLab](https://github.com/droneslab)  -->
 
@@ -38,6 +38,10 @@
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
 </p>
+
+<!-- here i can add experience of mine -->
+
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sougato97&show_icons=true&locale=en&layout=compact" alt="sougato97" /></p>
 
