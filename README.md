@@ -1,13 +1,15 @@
 <!-- I have commented the 2nd line -->
 <!-- [![MasterHead](https://github.com/sougato97/sougato97/blob/main/github_readme.png)](https://sougato97.github.io/) --> 
 <h1 align="center">Hi 👋, I'm Sougato Bagchi</h1>
-<h3 align="center">Machine Learning Engineer at [Cozeva](https://corp.cozeva.com/)</h3>
+<h3 align="center">Machine Learning Engineer </h3>
 
 <img align="right" alt="Coding" width="350" src="https://github.com/sougato97/sougato97/blob/main/cat_typing.gif">
 
 <!-- - 🔭 I have worked on [Human Robot Interaction](https://github.com/hcicsebuffalo) & [DronesLab](https://github.com/droneslab)  -->
 
 <!-- - 👨‍💻 All of my projects are available at [sougato97.github.io](https://sougato97.github.io/) -->
+* I work at [Cozeva](https://corp.cozeva.com/)
+
 * 👨‍💻 Please check my public [GitHub profile](https://github.com/sougato97)
 
 * 💬 Would love to discuss about **tech, the miracle of life & universe**
